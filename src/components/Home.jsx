@@ -11,9 +11,9 @@ const Home = () => {
                 <div className="text-center header-content mx-auto">
                   <h4 className="text-white first-title mb-4">Hi </h4>
                   <h1 className="header-name text-white text-capitalize mb-0">
-                    I'M
+                    I'M 
                     <span className="simple-text-rotate font-weight-bold">
-                      ...
+                      Moroj Alharbi
                     </span>
                   </h1>
                   <p className="text-white mx-auto header-desc mt-4">....</p>
