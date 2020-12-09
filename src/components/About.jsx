@@ -20,7 +20,7 @@ const AboutSection = () => {
               </h2>
               <h4 class="mt-4">
                 Hi!
-                <span class="text-custom font-weight-bold">I'M ....</span>
+                <span class="text-custom font-weight-bold">I'M Moroj Alharbi</span>
               </h4>
               <p class="text-muted mt-4">
                 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
