@@ -19,7 +19,7 @@ const AboutSection = () => {
                 <span class="font-weight-bold">About</span> Me
               </h2>
               <h4 class="mt-4">
-                Hi!
+                {/* Hi! */}
                 <span class="text-custom font-weight-bold">I'M Moroj Alharbi</span>
               </h4>
               <p class="text-muted mt-4">
